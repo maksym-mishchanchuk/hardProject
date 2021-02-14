@@ -1,0 +1,83 @@
+.mainContainer {
+    width: 951px;
+    background-color: #990909;
+    text-align: center;
+    margin: 0 auto;
+}
+.header {
+    display: block;
+    margin: 0 auto;
+}
+.imgContainer {
+    width: 100%;
+    background-color: #000000;
+}
+.imgWrapper {
+    display: inline-block;
+    width: 150px;
+    margin: 5px;
+}
+.imgWrapper>img {
+    width: 100%;
+}
+.imgWrapper>p {
+    color: #ffffff;
+    margin: 0;
+    text-align: center;
+}
+.leftDarkRedBlock {
+    width: 199px;
+    height: 300px;
+    border: 1px solid #7F0601;
+    background-color: #7F0601;
+    text-align: left;
+}
+.leftDarkRedBlock>p>a {
+    color: orangered;
+}
+.headerA {
+    color: white;
+    text-decoration: none;
+}
+.containerWithText {
+    width: 602px;
+    border: 1px solid #990909;
+    color: #ffffff;
+    margin: 0 auto;
+}
+.containerWithText>p {
+    text-align: left;
+}
+.rightWhiteBlock {
+    background: #E4DDDD;
+    width: 150px;
+    height: 300px;
+}
+.containerInLine {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.rightWhiteBlock>.childRightWhiteBlock {
+    margin: 0;
+    background: darkgray;
+    font-weight:bold;
+    text-align: center;
+}
+footer {
+    background: orangered;
+    margin: 25px 0 20px 0px;
+    color: #ffffff;
+}
+.line {
+    border-top:1px solid darkgrey;
+    width: 50%;
+    margin: 5% 25% 5% 25% ;
+}
+.rightWhiteBlock>p {
+    text-align: left;
+}
+body {
+    background-color: #990909;
+}
+
