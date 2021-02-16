@@ -34,6 +34,7 @@
 }
 .leftDarkRedBlock>p>a {
     color: orangered;
+    font-family: Geneva, gaze, cursive;
 }
 .headerA {
     color: white;
@@ -44,6 +45,7 @@
     border: 1px solid #990909;
     color: #ffffff;
     margin: 0 auto;
+    font-family: Tahoma, verdana, sans-serif;
 }
 .containerWithText>p {
     text-align: left;
@@ -66,7 +68,7 @@
 }
 footer {
     background: orangered;
-    margin: 25px 0 20px 0px;
+    margin: 25px 0 20px 0;
     color: #ffffff;
 }
 .line {
@@ -76,6 +78,7 @@ footer {
 }
 .rightWhiteBlock>p {
     text-align: left;
+    font-family:  inherit;
 }
 body {
     background-color: #990909;
